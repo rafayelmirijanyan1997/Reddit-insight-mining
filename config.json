@@ -1,0 +1,20 @@
+{
+  "DEFAULT_SUBREDDITS": [
+    "tech",
+    "cybersecurity",
+    "programming",
+    "python",
+    "datascience"
+  ],
+  "SORT_OPTIONS": ["hot", "new", "top", "rising"],
+  "TIME_FILTERS": ["hour", "day", "week", "month", "year", "all"],
+  "MAX_PER_REQUEST": 100,
+  "LISTING_CEILING": 1000,
+  "PER_REQUEST_TIMEOUT": 30,
+  "DEFAULT_MAX_WALL_CLOCK": 400,
+  "REQUEST_DELAY_MIN": 1.0,
+  "REQUEST_DELAY_MAX": 2.0,
+  "MAX_RETRIES": 5,
+  "DB_FILE": "reddit_posts.db",
+  "USER_AGENT": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+}

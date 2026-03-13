@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# local data
+reddit_posts.db
+
+# generated outputs
+lab8_outputs/
+*.png
