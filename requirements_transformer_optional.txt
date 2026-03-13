@@ -1,4 +1,0 @@
-# Optional extras for vector.py --method transformer
-# These are kept separate because transformer/torch installs are often the
-# first thing to break in older Python 3.6 course environments.
-sentence-transformers==2.2.2
